@@ -1,6 +1,4 @@
-# OIBSIP
-
-#task 1
+# OIBSIP TASK 1
 
 # Frontend Landing Pages Website
 

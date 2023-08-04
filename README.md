@@ -43,8 +43,6 @@ Welcome to my Personal Portfolio Website repository! This project showcases my s
 
 - [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
 ## Demo

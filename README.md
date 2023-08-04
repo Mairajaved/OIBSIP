@@ -32,3 +32,38 @@ The website is built using the following technologies:
 
 ### live link: https://mairajaved.github.io/OIBSIP/TASK1%20(Landing%20Pages)/
 <hr />
+# OIBSIP TASK 2
+
+# Personal Portfolio Website
+
+![Portfolio Preview](portfolio_preview.png)
+
+Welcome to my Personal Portfolio Website repository! This project showcases my skills in HTML, CSS, and JavaScript, and it's a reflection of who I am as a web developer. The website is designed to serve as an online portfolio, allowing visitors to explore my projects, learn about my journey, and get in touch with me.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+
+## Demo
+
+🔗 [Live Demo]https://mairajaved.github.io/OIBSIP/(TASK%202)portfolio%20website/index.html)
+
+## Features
+
+- Clean and modern design
+- Project showcases with descriptions and images
+- About Me section to share my journey and passion
+- Skills & Expertise listing
+- Contact section for easy communication
+- Responsive layout for various devices
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- <hr/>

@@ -37,8 +37,6 @@ The website is built using the following technologies:
 
 # Personal Portfolio Website
 
-![Portfolio Preview](portfolio_preview.png)
-
 Welcome to my Personal Portfolio Website repository! This project showcases my skills in HTML, CSS, and JavaScript, and it's a reflection of who I am as a web developer. The website is designed to serve as an online portfolio, allowing visitors to explore my projects, learn about my journey, and get in touch with me.
 
 ## Table of Contents

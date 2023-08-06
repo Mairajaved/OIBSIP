@@ -47,7 +47,7 @@ Welcome to my Personal Portfolio Website repository! This project showcases my s
 
 ## Demo
 
-🔗 [Live Demo]https://mairajaved.github.io/OIBSIP/(TASK%202)portfolio%20website/index.html)
+### [Live Demo]https://mairajaved.github.io/OIBSIP/(TASK%202)portfolio%20website/index.html)
 
 ## Features
 
@@ -82,5 +82,5 @@ This is a simple Temperature Converter website built using HTML, CSS, and JavaSc
 - CSS
 - JavaScript
 
-##Live link : https://mairajaved.github.io/OIBSIP/(TASK%203)%20Temp%20Conv%20Web/
+### Live link : https://mairajaved.github.io/OIBSIP/(TASK%203)%20Temp%20Conv%20Web/
 

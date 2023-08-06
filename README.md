@@ -64,3 +64,23 @@ Welcome to my Personal Portfolio Website repository! This project showcases my s
 - CSS
 - JavaScript
 - <hr/>
+
+# OIBSIP TASK 3
+
+# Temperature Converter Website Readme
+
+## Description
+This is a simple Temperature Converter website built using HTML, CSS, and JavaScript. The website allows users to convert temperatures between Celsius and Fahrenheit units. It provides an easy-to-use interface to enter a temperature in one unit and instantly see the converted value in the other unit.
+
+## Features
+- Converts temperatures between Celsius and Fahrenheit.
+- Real-time conversion as the user enters the temperature.
+- Simple and intuitive user interface.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+##Live link : https://mairajaved.github.io/OIBSIP/(TASK%203)%20Temp%20Conv%20Web/
+
